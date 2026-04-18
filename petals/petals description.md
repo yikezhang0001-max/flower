@@ -1,3 +1,3 @@
 # petals are a part of the flower
-## /purple/ they come in different shapes, sizes and colours
+## they come in different shapes, sizes and colours [99FFCC]
 ### they protect the flower's middel
